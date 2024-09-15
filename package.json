@@ -1,6 +1,6 @@
 {
-  "name": "broken-wildflower-7fca",
-  "version": "0.0.0",
+  "name": "BillingApp",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "deploy": "wrangler deploy",
